@@ -264,5 +264,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initContactForm();
   initSmoothScroll();
 
-  console.log('%c⟨ Vienel.dev ⟩ Portfolio loaded! 🚀', 'color:#00d4ff; font-size:14px; font-weight:bold;');
+  console.log('%c⟨ Portfolio ⟩ Portfolio loaded! 🚀', 'color:#00d4ff; font-size:14px; font-weight:bold;');
 });
